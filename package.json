@@ -6,8 +6,18 @@
 	"publisher": "E.Melnikov",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/WuarTi/retro-green"
 	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"green",
+		"eye-care",
+		"melnikov",
+		"retro",
+		"elite",
+		"style"
+	],
 	"engines": {
 		"vscode": "^1.89.0"
 	},
