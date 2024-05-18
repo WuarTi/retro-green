@@ -1,9 +1,11 @@
 # Change Log
 
-All notable changes to the "retro-green" extension will be documented in this file.
+## Version 1.0.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+![Retro PC Green Theme Screenshot](retro-green.png)
+
+## Version 2.0.0
+
+![Retro PC Green Theme Screenshot](retro-green2.png)
 
 ## [Unreleased]
-
-- Initial release

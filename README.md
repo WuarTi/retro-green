@@ -28,7 +28,7 @@ Retro PC Green is a dark theme for Visual Studio Code that brings a nostalgic re
 
 ## Screenshot
 
-![Retro PC Green Theme Screenshot](retro-green.png)
+![Retro PC Green Theme Screenshot](retro-green2.png)
 
 ## Customization
 
